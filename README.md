@@ -1,5 +1,8 @@
 # AsciiFlag
-Fifth assignment for C# class
+Fifth assignment for C# class.
+
+Note that C# does not support HEREDOC style string literals,
+which would be a cleaner way to define ASCII art strings.
 
 ## Example output
 ```
