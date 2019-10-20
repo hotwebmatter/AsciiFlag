@@ -1,6 +1,8 @@
 # AsciiFlag
 Fifth assignment for C# class.
 
+Not actually assigned by professor, just based on exercise in textbook.
+
 Note that C# does not support HEREDOC style string literals,
 which would be a cleaner way to define ASCII art strings.
 
